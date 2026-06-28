@@ -1,4 +1,4 @@
-# Salmon Filets
+# Salmon Fillets
 
 Cooking salmon fillets in a convection oven is **fast, reliable, and yields
 moist, evenly cooked fish with a slightly crisp exterior** thanks to the
