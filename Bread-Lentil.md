@@ -2,13 +2,13 @@
   
 ## Ingredients  
   
-* 200 grams (7 oz) of lentils (soaked overnight)  
+* 200 grams (1 cup) of lentils soaked overnight  
 * 100 ml water (about 2/5 cup)  
 * A pinch of salt  
 * ½ tsp baking soda  
 * ½ tsp vinegar  
-* 4 Tbsp of flaxseeds (ground into meal)
-* 2 Tbsp of psyllium  
+* 4 Tbsp (¼ cup) of flaxseeds ground into meal
+* 2 Tbsp of psyllium husk 
   
 ## Instructions  
   

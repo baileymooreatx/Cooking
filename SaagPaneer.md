@@ -8,10 +8,11 @@ until golden** before combining them.
 ## Ingredients
 
 * **Paneer**: 250 to 500 grams, cut into 2cm cubes  
+  Imperial untis: ½ lb to 1 lb, cut into ¾-inch cubes
   See [Paneer Recipe](./Paneer.md).
 * **Spinach**: 450 to 800 grams (fresh or frozen); some recipes also use 
-  mustard 
-  greens for traditional "saag"
+  mustard greens for traditional "saag"
+  Imperial units: 1 lb to 1¾ lbs (fresh or frozen)
 * **Aromatics**: 1 large onion, 3 to 5 garlic cloves, 1 or 2 inches ginger, 
   1 or 2 green chilies
 * **Spices**: 1 tsp cumin seeds, 1 tsp turmeric, 1 tsp chili powder (adjust to

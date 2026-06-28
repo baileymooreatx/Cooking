@@ -5,8 +5,8 @@ more flavor and nutrients quickly. Here’s a simple, reliable method:
 
 ## Ingredients
 
-* 1–2 tablespoons **dried elderberries** (or ½ cup fresh)
-* 3–4 cups water
+* 1 tablespoon **dried elderberries** (or ½ cup fresh)
+* 4 cups water
 * Optional:
   * Cinnamon stick
   * Fresh ginger slices
@@ -21,7 +21,7 @@ more flavor and nutrients quickly. Here’s a simple, reliable method:
 2. **Pressure cook:**
 
    * Seal the lid
-   * Set to **High Pressure for 7–10 minutes**
+   * Set to **High Pressure for 7 minutes**
 
 3. **Natural release:**
    Let the pressure release naturally for about 10–15 minutes. This helps deepen the infusion.
@@ -32,11 +32,8 @@ more flavor and nutrients quickly. Here’s a simple, reliable method:
 5. **Finish:**
    Add honey or lemon to taste (after it cools slightly to preserve nutrients).
 
----
-
 ## Tips
 
 * Elderberries should **always be cooked** because raw berries can cause stomach upset.
 * For stronger tea, use more berries or reduce the water slightly.
 * You can store leftover tea in the fridge for up to 3–4 days.
-

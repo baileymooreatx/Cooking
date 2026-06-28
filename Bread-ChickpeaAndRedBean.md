@@ -2,14 +2,15 @@
 
 ## Ingredients  
 
-* 200 grams of red beans (soaked overnight)
-* 100 grams of chickpeas (soaked overnight)
+* 200 grams (1.1 cups) of red beans soaked overnight
+* 100 grams (½ cup) of chickpeas soaked overnight
 * A pinch of salt
 * 80 ml of cold water
 * ½ tsp baking soda
 * ½ tsp vinegar
 * 2 Tbsp of psyllium
-* 80 grams of flaxseed (ground into meal)
+* 80 grams (½ cup) of flaxseed ground into meal  
+  
 
 ## Instructions  
   
