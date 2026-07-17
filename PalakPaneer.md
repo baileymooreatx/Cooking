@@ -1,9 +1,9 @@
-# Saag Paneer  
+# Palak Paneer (Saag Paneer)  
 
-**Saag paneer** is a classic Indian dish featuring **soft paneer cheese**
-simmered in a **creamy, spiced spinach gravy**. The key to a great saag paneer
-lies in **properly wilting and blending the greens** and **frying the paneer
-until golden** before combining them.
+**Palak paneer**, also called saag paneer, is a classic Indian dish featuring 
+**soft paneer cheese** simmered in a **creamy, spiced spinach gravy**. The key 
+to a great saag paneer lies in **properly wilting and blending the greens** and 
+**frying the paneer until golden** before combining them.
 
 ## Ingredients
 
@@ -33,8 +33,8 @@ Add a small amount of water (about ½ cup), seal the lid, and pressure-cook on
 **High**. Cooking times vary slightly by recipe:
 
 * **Fresh Spinach Only**: 1 or 2 minutes at high pressure.
-* **Mixed Greens (Spinach + Mustard/Kale)**: 5 to 10 minutes at high pressure to
-  ensure tougher greens soften completely.
+* **Mixed Greens (Spinach and Mustard/Kale)**: 5 to 10 minutes at high 
+  pressure to ensure tougher greens soften completely.
 
 Allow for a **Natural Pressure Release** (waiting 5 to 10 minutes before opening
 the valve) to prevent hot splatters and keep the greens vibrant. Once opened,
