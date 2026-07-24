@@ -2,9 +2,9 @@
 Prep Time: 5 minutes mins
 Total Time: 5 minutes mins
 16 Servings
-Author: Diana
 
-Homemade hot cocoa mix is a delicious and comforting treat that can be easily made at home with just a few simple ingredients.
+Homemade hot cocoa mix is a delicious and comforting treat that can be easily 
+made at home with just a few simple ingredients.
 
 ## Equipment  
 
