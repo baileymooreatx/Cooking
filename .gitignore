@@ -1,3 +1,4 @@
+*.pdf
 /.idea/
-/binary/
+/binary/*
 /Cooking.iml
