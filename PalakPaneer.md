@@ -8,7 +8,7 @@ to a great saag paneer lies in **properly wilting and blending the greens** and
 ## Ingredients
 
 * **Paneer**: 250 to 500 grams, cut into 2cm cubes  
-  Imperial untis: ½ lb to 1 lb, cut into ¾-inch cubes
+  Imperial units: ½ lb to 1 lb, cut into ¾-inch cubes
   See [Paneer Recipe](./Paneer.md).
 * **Spinach**: 450 to 800 grams (fresh or frozen); some recipes also use 
   mustard greens for traditional "saag"
