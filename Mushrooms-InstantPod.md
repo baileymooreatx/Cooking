@@ -9,7 +9,7 @@ mushrooms.
 ## Ingredients
 
 - 16 to 24 oz baby bella mushrooms, cleaned and halved or left whole
-- ½ cup liquid (water or broth)
+- ¼ cup liquid (water or broth) to seal the pressure cooker
 - 1 to 2 tablespoons of coconut oil or avocado oil
 - Optional
     - onions
@@ -23,7 +23,7 @@ mushrooms.
 1. Set the Instant Pot to **Sauté** mode. Add oil
 2. Sauté onions, peppers, garlic, or herbs if desired
 3. Add the mushrooms and stir for 3 to 5 minutes until slightly softened.
-4. Pour in ½ cup of liquid (broth or water) and stir well.
+4. Pour in ¼ cup of liquid (broth or water) and stir well.
 5. Secure the lid, set the valve to **Sealing**, and select **Manual/Pressure
    Cook** on **High** for **5 minutes**.
     - For firmer mushrooms: reduce time to **2 or 3 minutes**.
