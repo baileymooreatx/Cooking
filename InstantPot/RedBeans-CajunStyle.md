@@ -2,8 +2,10 @@
 
 ## Ingredients
 
-* **Beans & Liquid:** 1 pound dried red kidney beans (rinsed and sorted), 4 cups
-  low-sodium chicken or vegetable broth, 2 cups water.
+* **Beans & Liquid:** 
+  * 1 pound dried red kidney beans (rinsed and sorted)
+  * 4 cups low-sodium chicken or vegetable broth
+  * 2 cups water
 * **Meat:** 12–16 oz andouille sausage (sliced) or 1 smoked ham hock.
 * **Vegetables:** 
   * 1 large onion
