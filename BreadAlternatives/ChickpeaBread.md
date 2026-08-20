@@ -10,7 +10,7 @@ Recipe provided by [Ela Vegan](https://elavegan.com/chickpea-bread/#recipe).
 | ¾ cup (180 ml)  | Water                                                        |
 | 4 Tbsp (40 g)   | Psyllium husk powder (not whole psyllium husk)               | 
 | ¼ cup (25 g)    | Ground flaxseeds                                             |
-| 1/2-3/4 tsp     | Sea salt                                                     |
+| ½ - ¾ tsp       | Sea salt                                                     |
 | 1 ¼ tsp         | Baking powder                                                |
 | ¾ tsp           | Baking soda                                                  |
 | 1 ½ Tbsp (16 g) | Vinegar or lemon juice/ lime juice                           |
