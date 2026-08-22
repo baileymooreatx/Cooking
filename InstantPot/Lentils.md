@@ -76,13 +76,13 @@ Vegetables are categorized by density, which dictates when they should be added.
 ### Adjusted Instructions
 
 1. **Sauté Aromatics & Meat:** Set Instant Pot to **Sauté**. Brown ground meat
-   or sear beef chunks. Add onions, garlic, carrots, and celery; cook for 3–5
+   or sear beef chunks. Add onions, garlic, carrots, and celery; cook for 3 to 5
    minutes until slightly softened.
 2. **Deglaze:** Pour in a splash of broth and scrape the bottom of the pot to
    remove browned bits (prevents the "Burn" error).
 3. **Combine:** Add rinsed lentils, remaining liquid, and hard vegetables (if
    not sautéed).
-4. **Pressure Cook:** Seal the lid. Cook on **High Pressure** for **10 minutes
-   ** (for brown/green lentils) or **4 minutes** (for red lentils).
+4. **Pressure Cook:** Seal the lid. Cook on **High Pressure** for **10 minutes**
+   (for brown/green lentils) or **4 minutes** (for red lentils).
 5. **Finish:** Allow a **10-minute natural release**. Open the lid, stir in soft
    vegetables (spinach, peas), and season with salt.
