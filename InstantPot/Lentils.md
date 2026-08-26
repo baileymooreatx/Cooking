@@ -23,12 +23,12 @@ to 10 minutes** depending on the lentil variety and desired texture.
    the **"Sealing"** position.
 3. **Set Cook Time:** Select the **Pressure Cook** (or Manual) setting on **High
    Pressure**. Set the timer based on your lentil type:
-    * Red Lentils: 0 to 4 minutes (0 minutes for soft, 4 for firm).
+    * Red Lentils: 0 minutes
     * Brown or Green Lentils: 8 to 10 minutes (8 for *al dente*, 10 for
       soft).
     * Black (Beluga) Lentils: 6 to 8 minutes.
 4. **Natural Release:** Once the cooking cycle finishes, allow the pressure to
-   release naturally for **10 to 15 minutes** before manually venting any
+   release naturally for **10 minutes** before manually venting any
    remaining steam. This prevents the lentils from splitting.
 5. **Serve:** Open the lid, fluff the lentils with a fork, and adjust seasoning
    with salt and pepper to taste.
