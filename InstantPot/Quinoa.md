@@ -20,7 +20,7 @@ To cook **fluffy quinoa** in an Instant Pot, follow this reliable method.
 3. **Cook**: Secure the lid and set the valve to **Sealing**. Select **Manual**
    or **Pressure Cook** on **High Pressure**.
     * **White Quinoa**: Set timer for **1 minute**.
-    * **Red/Black/Tricolor Quinoa**: Set timer for **2–3 minutes**.
+    * **Red/Black/Tricolor Quinoa**: Set timer for **3 minutes**.
     * *Note: The pot will take about 5 to 10 minutes to build pressure 
       before the timer starts.*
 4. **Release**: Once the cooking cycle finishes, allow a **Natural Pressure
