@@ -43,3 +43,27 @@ min).
 This [video](https://www.youtube.com/watch?v=rH2-OWBeBN0) walks through the 
 crêpe-making and rolling technique step by step, which is the part most people 
 find trickiest.
+
+## Subsitite Non-nutrative Sweetener
+
+**Crêpe batter (1 tbsp sugar):** Straightforward swap. Use 1 tbsp of a 1:1
+powdered sweetener blend (e.g., Swerve Confectioners, or powdered erythritol 
+and a tiny pinch of stevia). The amount is small enough that any common sugar
+substitute will behave fine.
+
+**Cheese filling (3 tbsp powdered sugar):** Use **powdered** erythritol or a 
+1:1 confectioners-style blend, not granulated. Granulated erythritol doesn't
+dissolve well in cold/room-temperature mixtures and will leave a grainy texture.
+A pinch of powdered stevia can be added on top if you want a bit more
+sweetness, since erythritol is only ~70% as sweet as sugar.
+
+**Caveats:**
+
+- Erythritol gives a mild cooling sensation in the mouth. Adding a small amount
+  of stevia (or monk fruit) helps mask that.
+- Pure stevia alone won't work as a direct replacement here — it's far too
+  concentrated and lacks the bulk that powdered sugar provides in the filling.
+
+In short: grab a bag of **powdered erythritol** or a 1:1 powdered sweetener
+blend, and you can swap it in 1-for-1 in both the batter and the filling with no
+other changes.
