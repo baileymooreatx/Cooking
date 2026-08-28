@@ -44,7 +44,7 @@ This [video](https://www.youtube.com/watch?v=rH2-OWBeBN0) walks through the
 crêpe-making and rolling technique step by step, which is the part most people 
 find trickiest.
 
-## Subsitite Non-nutrative Sweetener
+## Substitute Non-nutritive Sweetener
 
 **Crêpe batter (1 tbsp sugar):** Straightforward swap. Use 1 tbsp of a 1:1
 powdered sweetener blend (e.g., Swerve Confectioners, or powdered erythritol 
