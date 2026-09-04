@@ -1,4 +1,5 @@
-# #21 The Invention
+# The Invention  
+from [The Great Outdoors](https://greatoutdoorsubs.com/)  
 
 ## Heated elements:
 * Wheat bun 
@@ -7,16 +8,25 @@
 * Mushrooms
 * Provolone
 
-## Fresh
+## The Works
+
+"The Works" is the house dressing at The Great Outdoors Sub Shop in Dallas — it
+comes on every sub (and salad) by default and consists of:
+
 * Lettuce
+* Tomato
 * Red onions
 * Sliced tomatoes
-
-## Dressings
-* Red wine vinegar
-* Salad oil
+* Wine vinegar and oil
 * Oregano
 * Parmesan
-* Salt and pepper
+* Salt
 
-Your choice of: mayonnaise, ranch, campfire mayo, mustard, bleu cheese, spicy mustard
+## Choice of Dressings
+* Mayonnaise
+* Ranch dressing
+* Campfire mayo
+* Mustard
+* Spicy mustard
+* Bleu cheese dressing
+* Thousand island dressing
