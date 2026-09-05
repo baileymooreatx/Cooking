@@ -6,23 +6,27 @@ min).
 
 **Crêpe batter**
 
-- 1 cup milk
-- 1 cup all-purpose flour
-- ¼ cup cold water
-- 3 large eggs
-- 2 tablespoons vegetable oil
-- 1 tablespoon sugar
-- ½ teaspoon salt
-- ¼ teaspoon vanilla extract
+| Amount        | Ingredient           |
+|---------------|----------------------|
+| 1 cup         | Milk                 |
+| 1 cup         | All-purpose Flour    |
+| ¼ cup         | Cold Water           |
+| 3             | Large Eggs           |
+| 2 Tablespoons | Coconut or Olive Oil |
+| 1 Tablespoon  | Sugar                |
+| ½ tsp         | Salt                 |
+| ¼ tsp         | Vanilla Extract      |
 
 **Cheese filling**
 
-- 1½ cups ricotta cheese (strain overnight if watery)
-- ½ cup cream cheese, room temperature
-- 1 large egg
-- 3 tablespoons powdered sugar
-- Zest of 1 lemon
-- Pinch of salt
+| Amount        | Ingredient                                  |
+|---------------|---------------------------------------------|
+| 1½ cups       | Ricotta Cheese (strain overnight if watery) |
+| ½ cup         | Cream Cheese (room temperature)             |
+| 1             | Large Egg                                   |
+| 3 Tablespoons | Powdered Sugar                              |
+| Zest of 1     | Lemon                                       |
+| A pinch       | Salt                                        |
 
 **Instructions**
 
@@ -40,28 +44,29 @@ min).
    bake at 350°F for 10 minutes).
 6. **Serve** with fresh or cooked fruit, berry sauce, and/or sour cream.
 
-This [video](https://www.youtube.com/watch?v=rH2-OWBeBN0) walks through the 
-crêpe-making and rolling technique step by step, which is the part most people 
-find trickiest.
-
+This YouTube [video](https://www.youtube.com/watch?v=rH2-OWBeBN0) walks through 
+the crêpe-making and rolling technique step by step, which is the part most 
+people find trickiest. Alternately see Chef John's video and recipe on 
+[allrecipes.com](https://www.allrecipes.com/recipe/242406/chef-johns-cheese-blintzes/).
+  
 ## Substitute Non-nutritive Sweetener
 
-**Crêpe batter (1 tbsp sugar):** Straightforward swap. Use 1 tbsp of a 1:1
+**Crêpe batter (1 Tablespoon sugar):** Straightforward swap. Use 1 tbsp of a 1:1
 powdered sweetener blend (e.g., Swerve Confectioners, or powdered erythritol 
 and a tiny pinch of stevia). The amount is small enough that any common sugar
 substitute will behave fine.
 
-**Cheese filling (3 tbsp powdered sugar):** Use **powdered** erythritol or a 
-1:1 confectioners-style blend, not granulated. Granulated erythritol doesn't
-dissolve well in cold/room-temperature mixtures and will leave a grainy texture.
-A pinch of powdered stevia can be added on top if you want a bit more
+**Cheese filling (3 Tablespoons powdered sugar):** Use **powdered** erythritol 
+or a 1:1 confectioners-style blend, not granulated. Granulated erythritol does 
+not dissolve well in cold/room-temperature mixtures and will leave a grainy 
+texture. A pinch of powdered stevia can be added on top if you want a bit more
 sweetness, since erythritol is only ~70% as sweet as sugar.
 
 **Caveats:**
 
 - Erythritol gives a mild cooling sensation in the mouth. Adding a small amount
   of stevia (or monk fruit) helps mask that.
-- Pure stevia alone won't work as a direct replacement here — it's far too
+- Pure stevia alone won't work as a direct replacement here. It is far too
   concentrated and lacks the bulk that powdered sugar provides in the filling.
 
 In short: grab a bag of **powdered erythritol** or a 1:1 powdered sweetener
