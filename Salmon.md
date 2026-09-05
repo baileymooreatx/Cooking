@@ -25,11 +25,11 @@ browning.
 - Season generously with salt, pepper, and any desired spices or herbs.
 - Place fillets skin-side down (if applicable) on the prepared baking sheet or
   rack, leaving space between them.
-- Bake for **12–15 minutes**, depending on thickness—thinner fillets may take as
-  little as 8–10 minutes.
+- Bake for **12 to 15 minutes**, depending on thickness—thinner fillets may 
+  take as little as 8 to 10 minutes.
 - Check doneness: the salmon should flake easily with a fork and reach an
   internal temperature of **145°F (63°C)**.
-- Remove from oven, let rest for 2–3 minutes, then serve with lemon wedges or
+- Remove from oven, let rest for 2 or 3 minutes, then serve with lemon wedges or
   fresh herbs.
 
 For a crispier finish, use **Convection Broil mode at 450°F** for the last 2–3
