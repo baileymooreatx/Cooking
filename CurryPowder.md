@@ -1,21 +1,23 @@
 # Curry Powder Recipe
 
-Curry powder isn’t a single traditional recipe—it’s a British-inspired spice blend 
-built from Indian flavors, and you can tweak it depending on what you like. Here’s 
-a solid, classic version you can make at home.
+Curry powder isn’t a single traditional recipe—it’s a British-inspired spice 
+blend built from Indian flavors, and you can tweak it depending on what you 
+like. Here’s a solid, classic version you can make at home.
 
 ## Ingredients  
 
-* 2 tbsp ground coriander
-* 1 tbsp ground cumin
-* 1 tbsp ground turmeric
-* 1 tsp  ground ginger
-* 1 tsp  dry mustard powder
-* 1 tsp  ground black pepper
-* ½ tsp  cinnamon
-* ½ tsp  ground cardamom
-* ½ tsp  cayenne pepper (adjust for heat)
-* ½ tsp ground cloves
+| Amount       | Ingredient                       |
+|--------------|----------------------------------|
+| 2 Tablespoon | Ground Coriander                 |
+| 1 Tablespoon | Ground Cumin                     |
+| 1 Tablespoon | Ground Turmeric                  |
+| 1 teaspoon   | Ground Ginger                    |
+| 1 teaspoon   | Dry Mustard Powder               |
+| 1 teaspoon   | Ground Black Pepper              |
+| ½ teaspoon   | Ground Cinnamon                  |
+| ½ teaspoon   | Ground Cardamom                  |
+| ½ teaspoon   | Cayenne Pepper (adjust for heat) |
+| ½ teaspoon   | Ground Cloves                    |
 
 ## Instructions  
 
@@ -25,10 +27,12 @@ a solid, classic version you can make at home.
 
 ## Tips for Better Flavor
 
-* If you have whole spices, lightly toast and grind them for a fresher, more aromatic blend.
+* If you have whole spices, lightly toast and grind them for a fresher, more 
+  aromatic blend.
 * Add a pinch of fenugreek for a slightly sweet, complex note.
 * For a deeper flavor, include a bit of smoked paprika.
 
 ## Important Note
 
-In Indian cooking, blends like garam masala are more traditional than “curry powder,” and recipes vary widely by region.
+In Indian cooking, blends like garam masala are more traditional than “curry 
+powder,” and recipes vary widely by region.

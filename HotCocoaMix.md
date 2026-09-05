@@ -31,13 +31,13 @@ made at home with just a few simple ingredients.
 
 ### To Make Hot Cocoa Mix  
 
-* In a big bowl, mix together the stevia, cocoa powder, coconut milk, and spices. 
-* Seal the lid tightly on the mixing bowl and shake it thoroughly. 
-* Transfer into an airtight storage container.
+1. In a big bowl, mix together the stevia, cocoa powder, coconut milk, and spices.
+2. Seal the lid tightly on the mixing bowl and shake it thoroughly.
+3. Transfer into an airtight storage container.
 
 ## To Make Hot Cocoa  
 
-* Mix 3 to 4 tablespoons of cocoa mix with a few ounces of hot water (not 
-* boiling). 
-* Fill the rest of the mug with hot water and stir again until smooth. 
-* Top with marshmallows or whipped cream if desired.
+1. Mix 3 to 4 tablespoons of cocoa mix with a few ounces of hot water (not 
+   boiling).
+2. Fill the rest of the mug with hot water and stir again until smooth.
+3. Top with marshmallows or whipped cream if desired.

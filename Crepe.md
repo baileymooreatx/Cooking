@@ -3,16 +3,17 @@
 [Basic crêpes](https://www.allrecipes.com/recipe/16383/basic-crepes/) 
 Makes 8 — a simple, highly rated recipe from Allrecipes
 
-**Ingredients**
+## Ingredients
 
-- 1 cup milk
-- ⅔ cup all-purpose flour
-- 2 large eggs
-- 2½ teaspoons vegetable oil (or melted butter for a more authentic French
-  flavor), divided
-- A pinch of salt
+| Amount       | Ingredient                                                                   |
+|--------------|------------------------------------------------------------------------------|
+| 1 cup        | Milk                                                                         |
+| ⅔ cup        | All-purpose Flour                                                            |
+| 2 large      | Eggs                                                                         |
+| 2½ teaspoons | Vegetable Oil (or melted butter for a more authentic French flavor), divided |
+| A pinch      | Salt                                                                         |
 
-**Steps**
+## Instructions
 
 1. Combine the milk, flour, eggs, 1½ teaspoons of the oil, and salt in a
    blender (or whisk by hand) until smooth. Cover and refrigerate for 1 hour —
