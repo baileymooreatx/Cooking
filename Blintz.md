@@ -4,7 +4,7 @@
 rolled up and pan-fried. Here's a reliable recipe (yields ~10 blintzes, ~90
 min).
 
-**Crêpe batter**
+## Crêpe batter
 
 | Amount        | Ingredient           |
 |---------------|----------------------|
@@ -17,7 +17,7 @@ min).
 | ½ tsp         | Salt                 |
 | ¼ tsp         | Vanilla Extract      |
 
-**Cheese filling**
+## Cheese Filling
 
 | Amount        | Ingredient                                  |
 |---------------|---------------------------------------------|
@@ -28,7 +28,7 @@ min).
 | Zest of 1     | Lemon                                       |
 | A pinch       | Salt                                        |
 
-**Instructions**
+## Instructions
 
 1. **Batter:** Blend all batter ingredients until completely smooth (1–2 min);
    let rest 30 minutes.
@@ -62,7 +62,7 @@ not dissolve well in cold/room-temperature mixtures and will leave a grainy
 texture. A pinch of powdered stevia can be added on top if you want a bit more
 sweetness, since erythritol is only ~70% as sweet as sugar.
 
-**Caveats:**
+### Caveats
 
 - Erythritol gives a mild cooling sensation in the mouth. Adding a small amount
   of stevia (or monk fruit) helps mask that.
