@@ -6,43 +6,45 @@ min).
 
 ## Crêpe batter
 
-| Amount        | Ingredient           |
-|---------------|----------------------|
-| 1 cup         | Milk                 |
-| 1 cup         | All-purpose Flour    |
-| ¼ cup         | Cold Water           |
-| 3             | Large Eggs           |
-| 2 Tablespoons | Coconut or Olive Oil |
-| 1 Tablespoon  | Sugar                |
-| ½ tsp         | Salt                 |
-| ¼ tsp         | Vanilla Extract      |
+| **Amount**    | **Ingredient**         |
+|---------------|------------------------|
+| 1 cup         | Milk                   |
+| 1 cup         | All-purpose Flour      |
+| ¼ cup         | Cold Water             |
+| 3             | Large Eggs             |
+| 2 Tablespoons | Extra Virgin Olive Oil |
+| 1 Tablespoon  | Erythritol             |
+| ½ tsp         | Salt                   |
+| ¼ tsp         | Vanilla Extract        |
 
 ## Cheese Filling
 
-| Amount        | Ingredient                                  |
-|---------------|---------------------------------------------|
-| 1½ cups       | Ricotta Cheese (strain overnight if watery) |
-| ½ cup         | Cream Cheese (room temperature)             |
-| 1             | Large Egg                                   |
-| 3 Tablespoons | Powdered Sugar                              |
-| Zest of 1     | Lemon                                       |
-| A pinch       | Salt                                        |
+| **Amount**                 | **Ingredient**                              |
+|----------------------------|---------------------------------------------|
+| 1½ cups (~13.5 oz)         | Ricotta Cheese (strain overnight if watery) |
+| ½ cup (½ of an 8 oz block) | Cream Cheese (room temperature)             |
+| 1                          | Large Egg                                   |
+| 3 Tablespoons              | Powdered Erythritol                         |
+| Zest of one                | Medium Lemon                                |
+| A pinch                    | Salt                                        |
 
 ## Instructions
 
-1. **Batter:** Blend all batter ingredients until completely smooth (1–2 min);
+1. Batter: Blend all batter ingredients until completely smooth (1–2 min);
    let rest 30 minutes.
-2. **Filling:** Mix the ricotta, cream cheese, egg, powdered sugar, lemon zest,
+2. Filling: Mix the ricotta, cream cheese, egg, powdered sugar, lemon zest,
    and salt until smooth.
-3. **Cook crêpes:** Heat a lightly buttered or sprayed 8" skillet over medium
+3. Preheat oven to 325°F.
+4. Cook crêpes: Heat a lightly buttered or sprayed 8" skillet over medium
    heat. Pour ~¼ cup batter, swirl into a thin circle, and cook ~30 seconds
    until the top looks dry; flip and cook ~10 seconds more. Repeat for all
    crêpes.
-4. **Assemble:** Place ~3 tablespoons of filling on each crêpe, fold in the
+5. Assemble: Place ~3 tablespoons of filling on each crêpe, fold in the
    sides, and roll up tightly like a burrito, seam-side down.
-5. **Brown:** Fry the rolled blintzes in butter until golden on each side (or
-   bake at 350°F for 10 minutes).
-6. **Serve** with fresh or cooked fruit, berry sauce, and/or sour cream.
+6. Brown: Fry the rolled blintzes in butter until golden on each side.
+7. Bake at 325°F for 12 minutes.
+8. Cool the blintzes for 10 minutes.
+9. Serve with fresh or cooked fruit, berry sauce, and/or sour cream.
 
 This YouTube [video](https://www.youtube.com/watch?v=rH2-OWBeBN0) walks through 
 the crêpe-making and rolling technique step by step, which is the part most 
