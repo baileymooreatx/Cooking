@@ -1,20 +1,20 @@
 # [Chickpea and Red Bean Bread](https://www.youtube.com/watch?v=Ws6rcyeCFMo)  
 
-My first attempt at this came out so bad I fed it to the critters in the 
-back yard. I have increased the amounts of baking soda and vinegar. I used 
-psyllium husk powder instead of psyllium husks.
+My first attempt at this came out so bad that I fed it to the critters in the 
+backyard. I have increased the amounts of baking soda and vinegar. I used 
+psyllium husk powder instead of psyllium husks, so I've adjusted that too.
 
 ## Ingredients  
-| Amount           | Ingredient                        |
-|------------------|-----------------------------------|
-| 200 g (1.1 cups) | Red Beans (soaked overnight)      |
-| 100 g (½ cup)    | Chickpeas (soaked overnight)      |
-| A pinch          | Salt                              |
-| 80 ml            | Cold Water                        |
-| 1½ tsp           | Baking Soda                       |
-| 1½ tsp           | Vinegar                           |
-| 2 tbsp           | Psyllium Husk                     |
-| 80 g (~7.8 tbsp) | Whole Flaxseed (ground into meal) |
+| Amount                 | Ingredient                        |
+|------------------------|-----------------------------------|
+| 200 g (1.1 cups)       | Red Beans (soaked overnight)      |
+| 100 g (½ cup)          | Chickpeas (soaked overnight)      |
+| A pinch                | Salt                              |
+| 80 ml                  | Cold Water                        |
+| 1½ teaspoon            | Baking Soda                       |
+| 1½ teaspoon            | Vinegar                           |
+| 1½ Tablespoon          | Psyllium Husk Powder              |
+| 80 g (~7.8 Tablespoon) | Whole Flaxseed (ground into meal) |
 
 ## Instructions  
   
