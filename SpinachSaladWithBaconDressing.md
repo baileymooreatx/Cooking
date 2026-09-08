@@ -1,6 +1,7 @@
 # Spinach Salad with Warm Bacon Dressing
 
-**Serves 4 · 20 minutes**
+Serves: 2 
+Preparation time: 20 minutes
 
 ## Ingredients
 
