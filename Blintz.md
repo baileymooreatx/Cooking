@@ -35,13 +35,14 @@ min).
 2. Filling: Mix the ricotta, cream cheese, egg, powdered sugar, lemon zest,
    and salt until smooth.
 3. Preheat oven to 325°F.
-4. Cook crêpes: Heat a lightly buttered or sprayed 8" skillet over medium
-   heat. Pour ~¼ cup batter, swirl into a thin circle, and cook ~30 seconds
-   until the top looks dry; flip and cook ~10 seconds more. Repeat for all
+4. Cook crêpes: Heat a lightly buttered or sprayed 10" skillet over medium
+   heat. Pour ~¼ cup batter, swirl into a thin circle, and cook ~60 seconds
+   until the top looks dry; flip and cook ~30 seconds more. Repeat for all
    crêpes.
 5. Assemble: Place ~3 tablespoons of filling on each crêpe, fold in the
    sides, and roll up tightly like a burrito, seam-side down.
-6. Brown: Fry the rolled blintzes in butter until golden on each side.
+6. Brown: Fry the rolled blintzes in butter until golden on each side (3 to 
+   5 minutes per side).
 7. Bake at 325°F for 12 minutes.
 8. Cool the blintzes for 10 minutes.
 9. Serve with fresh or cooked fruit, berry sauce, and/or sour cream.
