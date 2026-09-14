@@ -20,7 +20,7 @@ mushrooms.
 
 ## Instructions
 
-1. Set the Instant Pot to **Sauté** mode. Add oil
+1. Set the Instant Pot to **Sauté** mode. Add oil.
 2. Sauté onions, peppers, garlic, or herbs if desired
 3. Add the mushrooms and stir for 3 to 5 minutes until slightly softened.
 4. Pour in ¼ cup of liquid (broth or water) and stir well.

@@ -9,7 +9,7 @@ To cook **fluffy quinoa** in an Instant Pot, follow this reliable method.
     * *Note*: A **1:1.25 ratio** yields firmer grains, while **1:1.5** creates a
       softer texture.
 * **Salt**: ¼ teaspoon (optional)
-* **Oil**: 1 teaspoon (optional, prevents foaming)
+* **Oil**: 1 teaspoon (to prevent foaming)
 
 ### Instructions
 
