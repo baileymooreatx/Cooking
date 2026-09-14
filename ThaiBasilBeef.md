@@ -7,20 +7,22 @@ Cook Time:  15 minutes
 Total Time: 25 minutes 
 Servings: 4
 
-## Ingredients:
+## Ingredients  
 
-    1 pound thinly sliced beef (against the grain)
-    2 shallots or 1 small onion, diced
-    1 red bell pepper, diced
-    4 cloves garlic, minced
-    2 birds eye chilies, thinly sliced
-    1 tablespoon fish sauce
-    1 tablespoon soy sauce
-    1 tablespoon oyster sauce
-    1 teaspoon palm sugar (or brown sugar)
-    1 lime, juice and zest
-    1 cup basil (preferably Thai sweet basil)
-    2 green onions, thinly sliced
+| **Amount**   | **Ingredient**                         |
+|--------------|----------------------------------------|
+| 1 pound      | thinly sliced beef (against the grain) |
+| 2            | shallots or 1 small onion, diced       |
+| 1            | red bell pepper, diced                 |
+| 4 cloves     | garlic, minced                         |
+| 2            | birds eye chilies, thinly sliced       |
+| 1 tablespoon | fish sauce                             |
+| 1 tablespoon | soy sauce                              |
+| 1 tablespoon | oyster sauce                           |
+| 1 teaspoon   | palm sugar (or brown sugar)            |
+| 1            | lime, juice and zest                   |
+| 1 cup        | basil (preferably Thai sweet basil)    |
+| 2            | green onions, thinly sliced            |
 
 ## Directions:
 

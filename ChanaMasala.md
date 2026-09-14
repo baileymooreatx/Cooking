@@ -14,15 +14,15 @@
 
 ## 🌶️ Spices
 
-| Amount       | Ingredient              |
-|--------------|-------------------------|
-| 1 teaspoon   | Cumin Seeds             |
-| 1 teaspoon   | Ground Cumin            |
-| 1 teaspoon   | Ground Coriander        |
-| ½ teaspoon   | Turmeric                |
-| 1 teaspoon   | Paprika or Chili Powder |
-| 1–2 teaspoon | Garam Masala            |
-| To taste     | Salt                    |
+| Amount           | Ingredient              |
+|------------------|-------------------------|
+| 1 teaspoon       | Cumin Seeds             |
+| 1 teaspoon       | Ground Cumin            |
+| 1 teaspoon       | Ground Coriander        |
+| ½ teaspoon       | Turmeric                |
+| 1 teaspoon       | Paprika or Chili Powder |
+| 1 or 2 teaspoons | Garam Masala            |
+| To taste         | Salt                    |
 
 ### 🌿 Finishing  
 * Juice of ½ lemon  

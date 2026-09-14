@@ -5,13 +5,13 @@ Makes 8 — a simple, highly rated recipe from Allrecipes
 
 ## Ingredients
 
-| Amount       | Ingredient                                                                   |
-|--------------|------------------------------------------------------------------------------|
-| 1 cup        | Milk                                                                         |
-| ⅔ cup        | All-purpose Flour                                                            |
-| 2 large      | Eggs                                                                         |
-| 2½ teaspoons | Vegetable Oil (or melted butter for a more authentic French flavor), divided |
-| A pinch      | Salt                                                                         |
+| Amount        | Ingredient                                                                   |
+|---------------|------------------------------------------------------------------------------|
+| 1 cup         | Milk                                                                         |
+| ⅔ cup         | All-purpose Flour                                                            |
+| 2 large       | Eggs                                                                         |
+| 2 ½ teaspoons | Vegetable Oil (or melted butter for a more authentic French flavor), divided |
+| A pinch       | Salt                                                                         |
 
 ## Instructions
 

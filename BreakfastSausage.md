@@ -9,8 +9,8 @@ texture is keeping the meat **cold** and avoiding **overmixing**.
 
 | Amount       | Ingredient                                                |
 |--------------|-----------------------------------------------------------|
-| 1½–2 lbs     | Ground Pork (80/20 lean-to-fat ratio)                     |
-| 1½ teaspoon  | Kosher Salt (adjust to taste)                             |
+| 1 ½–2 lbs    | Ground Pork (80/20 lean-to-fat ratio)                     |
+| 1 ½ teaspoon | Kosher Salt (adjust to taste)                             |
 | 1 teaspoon   | Freshly Ground Black Pepper                               |
 | 2 teaspoons  | Dried Rubbed Sage (or 1 Tablespoon fresh, finely chopped) |
 | 1 teaspoon   | Dried Thyme (or 1 tbsp fresh, finely chopped)             |
