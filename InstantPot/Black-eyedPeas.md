@@ -9,16 +9,16 @@ cup of beans**.
 
 ## Ingredients
 
-* 1 cup dried black-eyed peas, soaked overnight (or quick-soaked) and
-  drained
-* 2 to 3 cups liquid (water, chicken broth, or vegetable broth)
-* 1 tablespoon oil (olive oil, vegetable oil, or bacon fat) to prevent
-  foaming
-* 1 teaspoon salt (adjust to taste; add after cooking if using salty broth)
-* 1 onion (diced)
-* 2 cloves garlic (minced)
-* 1 bay leaf
-* Ham hock or bacon
+| **Amount**   | **Ingredient**                                                        |
+|--------------|-----------------------------------------------------------------------|
+| 1 cup        | dried black-eyed peas, soaked overnight (or quick-soaked) and drained |
+| 2 to 3 cups  | liquid (water, chicken broth, or vegetable broth)                     |
+| 1 Tablespoon | oil (olive oil, vegetable oil, or bacon fat) to prevent foaming       |
+| 1 teaspoon   | salt (adjust to taste; add after cooking if using salty broth)        |
+| 1            | large onion (diced)                                                   |
+| 2 cloves     | garlic (minced)                                                       |
+| 1            | bay leaf                                                              |
+| 1            | ham hock (or 4 to 6 slices bacon, chopped)                            |
 
 ## Instructions
 

@@ -1,26 +1,27 @@
 # One-Pot Instant Pot Hoppin’ John (Black-Eyed Peas & Brown Rice)  
+
 A classic Southern recipe for a comforting dish made with black-eyed peas, 
 rice, and smoky flavor, traditionally eaten on New Year's Day for good luck.
 
 This reliable recipe keeps the rice fluffy *and* the peas tender (no mushy mess).
 
----
-
 ## Ingredients
 
-* 1 cup dried black-eyed peas (rinsed)  
-* 1 cup brown rice (rinsed)  
-* 3½ cups chicken broth (brown rice needs more liquid)  
-* 1 smoked ham hock or 4–6 slices bacon, chopped  
-* 1 medium onion, diced  
-* 1 bell pepper, diced  
-* 2 cloves garlic, minced  
-* ¼ tsp red pepper flakes (optional)
-* 1 bay leaf
-* 1 tsp salt (adjust later)  
-* ½ tsp black pepper
-* ½ tsp smoked paprika
-* Green onions for garnish
+| **Amount** | **Ingredient**                               |
+|------------|----------------------------------------------|
+| 1 cup      | dried black-eyed peas (rinsed)               |
+| 1 cup      | brown rice (rinsed)                          |
+| 3 ½ cups   | chicken broth (brown rice needs more liquid) |
+| 1          | smoked ham hock or 4–6 slices bacon, chopped |
+| 1 medium   | onion, diced                                 |
+| 1          | bell pepper, diced                           |
+| 2 cloves   | garlic, minced                               |
+| ¼ tsp      | red pepper flakes (optional)                 |
+| 1          | bay leaf                                     |
+| 1 tsp      | salt (adjust later)                          |
+| ½ tsp      | black pepper                                 |
+| ½ tsp      | smoked paprika                               |
+| —          | green onions for garnish                     |
 
 ## Instructions
 
@@ -75,4 +76,3 @@ This reliable recipe keeps the rice fluffy *and* the peas tender (no mushy mess)
 * Add diced tomatoes and chilis after cooking for a Lowcountry vibe.
 * Stir in a splash of vinegar or hot sauce at the end for brightness.
 * Swap the pork for smoked turkey if you want it lighter.
-

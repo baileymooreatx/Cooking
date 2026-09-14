@@ -1,23 +1,25 @@
-# 🍲 Instant Pot Borracho Beans (Dry Beans, No Soak)
+# Instant Pot Borracho Beans (Dry Beans, No Soak)
 
 ## Ingredients (Serves 6–8)
 
-* 1 lb (about 2 cups) dried pinto beans, rinsed
-* 6 slices bacon, chopped
-* 2 small onions, diced
-* 4 cloves garlic, minced
-* 1 jalapeño, diced (optional)
-* 1 can (14.5 oz) diced tomatoes
-* 3 cups chicken broth (or water)
-* 1 tsp cumin
-* 1 tsp chili powder
-* ½ tsp smoked paprika
-* 1 tsp salt (adjust later)
-* Black pepper to taste
-* ½ cup chopped cilantro (added at end)
-* Optional: ½ lb chorizo
+| **Amount**          | **Ingredient**                    |
+|---------------------|-----------------------------------|
+| 1 lb (about 2 cups) | dried pinto beans, rinsed         |
+| 6 slices            | bacon, chopped                    |
+| 2 small             | onions, diced                     |
+| 4 cloves            | garlic, minced                    |
+| 1                   | jalapeño, diced (optional)        |
+| 1 can (14.5 oz)     | diced tomatoes                    |
+| 3 cups              | chicken broth (or water)          |
+| 1 tsp               | cumin                             |
+| 1 tsp               | chili powder                      |
+| ½ tsp               | smoked paprika                    |
+| 1 tsp               | salt (adjust later)               |
+| —                   | black and cayenne pepper to taste |
+| ½ cup               | chopped cilantro (added at end)   |
+| ½ lb                | chorizo (optional)                |
 
-## ⚙️ Instructions
+## Instructions
 
 ### 1. Sauté the base
 
