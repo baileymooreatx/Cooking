@@ -16,16 +16,22 @@ For soaked beans (8–12 hours), the cook time drops to just **10 minutes**.
 | 2            | Bay leaves                         |
 | 1 Tablespoon | Chili powder                       |
 | 1 teaspoon   | Ground cumin                       |
-|              | **Add after cooking**              |
+|              | **Add when serving**               |
 | 1 teaspoon   | Smoked paprika                     |
 | ¼ teaspoon   | Cayenne pepper                     |
 | To taste     | Salt                               |
+| To taste     | Ceylon cinnamon                    |
+| 1 Tablespoon | Apple cider vinegar                |
+
+**Note:** As with other legumes, the iron is non-heme, so pairing black beans 
+with a vitamin C source (lemon juice, tomatoes, peppers) significantly improves
+absorption.
 
 ## Instructions
 
 1. **Rinse** 1 cup dried black beans, picking out any pebbles or damaged beans.
-2. Set the Instant Pot to **Sauté (Normal)**, add 1 Tablespoon oil, and brown the pork
-   belly for **5 minutes** until crispy.
+2. Set the Instant Pot to **Sauté (Normal)**, add 1 Tablespoon oil, and brown
+   the pork belly for **5 minutes**.
 3. In the same pot, sauté **1 diced onion** and **4 minced garlic cloves** for ~3
    minutes. 
 4. Add the dry spices at the end of the sauté step so they bloom in the fat.
