@@ -34,7 +34,7 @@ Recipe serves ~4.
 
 1. **Heat oil** in a pan over medium heat. Add cumin seeds and let them sizzle (about 30 seconds).
 2. **Cook aromatics**
-   Add onion and sauté until golden (6–8 minutes).
+   Add onion and sauté until golden (6 to 8 minutes).
    Stir in garlic, ginger, and green chilies.
    Cook for 1 minute.
 3. **Add tomatoes & spices**
