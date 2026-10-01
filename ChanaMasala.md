@@ -1,21 +1,23 @@
-# 🍲 Chana Masala Recipe (Serves ~4)
+# Chana Masala    
 
-## 🧾 Ingredients  
+Recipe serves ~4.  
 
-| Amount        | Ingredient                                    |
-|---------------|-----------------------------------------------|
-| 2 cups        | Cooked Chickpeas (or 1 can, drained & rinsed) |
-| 2 Tablespoons | Oil (coconut or olive)                        |
-| 1 medium      | Onion, finely chopped                         |
-| 3 cloves      | Garlic, minced                                |
-| 1-inch piece  | Ginger, minced                                |
-| 2 medium      | Tomatoes, chopped (or 1 cup canned crushed)   |
-| 1 or 2        | Green Chilies (optional, for heat)            |
+## Ingredients  
 
-## 🌶️ Spices
+| Amount         | Ingredient                                    |
+|:---------------|:----------------------------------------------|
+| 2 cups         | Cooked Chickpeas (or 1 can, drained & rinsed) |
+| 2 Tablespoons  | Oil (coconut or olive)                        |
+| 1 medium       | Onion, finely chopped                         |
+| 3 cloves       | Garlic, minced                                |
+| 1-inch piece   | Ginger, minced                                |
+| 2 medium       | Tomatoes, chopped (or 1 cup canned crushed)   |
+| 1 or 2         | Green Chilies (optional, for heat)            |
+
+## 🌶Spices
 
 | Amount           | Ingredient              |
-|------------------|-------------------------|
+|:-----------------|:------------------------|
 | 1 teaspoon       | Cumin Seeds             |
 | 1 teaspoon       | Ground Cumin            |
 | 1 teaspoon       | Ground Coriander        |
@@ -24,11 +26,11 @@
 | 1 or 2 teaspoons | Garam Masala            |
 | To taste         | Salt                    |
 
-### 🌿 Finishing  
+### Finishing  
 * Juice of ½ lemon  
 * Fresh cilantro, chopped  
 
-## 👩‍🍳 Instructions
+## Instructions
 
 1. **Heat oil** in a pan over medium heat. Add cumin seeds and let them sizzle (about 30 seconds).
 2. **Cook aromatics**
@@ -40,15 +42,15 @@
    Cook until the mixture thickens and oil starts to separate (8–10 minutes).
 4. **Add chickpeas**
    Stir in chickpeas plus ½ to 1 cup water (depending on how saucy you want it).
-   Simmer 10–15 minutes so flavors meld.
+   Simmer 10 to 15 minutes so flavors meld.
 5. **Finish**
    Stir in garam masala and lemon juice.
    Taste and adjust salt/spice.
 6. **Garnish & serve**
    Top with cilantro and serve hot.
 
-## 🔥 Tips for the best flavor
+## Tips for the best flavor
 
 * Slightly mash some chickpeas while simmering → thicker, richer sauce
-* Let it rest 10–15 minutes before serving (flavor improves)
+* Let it rest 10 to 15 minutes before serving (flavor improves)
 * If you have it, add 1 teaspoon dried fenugreek leaves (kasuri methi) at the end
