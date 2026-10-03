@@ -1,13 +1,13 @@
 # Cheese Blintzes
 
-**Cheese blintzes** are thin crêpes filled with a sweet, creamy cheese mixture,
-rolled up and pan-fried. Here's a reliable recipe (yields ~10 blintzes, ~90
-min).
+Cheese blintzes are thin crêpes filled with a sweet, creamy cheese mixture,
+rolled up and pan-fried. Here's a reliable recipe that yields ~10 blintzes 
+in ~90 minutes.
 
 ## Crêpe batter
 
 | **Amount**    | **Ingredient**         |
-|---------------|------------------------|
+|:--------------|:-----------------------|
 | 1 cup         | Milk                   |
 | 1 cup         | All-purpose Flour      |
 | ¼ cup         | Cold Water             |
@@ -20,7 +20,7 @@ min).
 ## Cheese Filling
 
 | **Amount**                 | **Ingredient**                              |
-|----------------------------|---------------------------------------------|
+|:---------------------------|:--------------------------------------------|
 | 1½ cups (~13.5 oz)         | Ricotta Cheese (strain overnight if watery) |
 | ½ cup (½ of an 8 oz block) | Cream Cheese (room temperature)             |
 | 1                          | Large Egg                                   |
