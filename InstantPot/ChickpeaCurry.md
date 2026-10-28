@@ -16,13 +16,13 @@
 | Diced tomatoes (canned, with juice) | 1 can (14.5 oz)                            |
 | Onion, diced                        | 1 medium                                   |
 | Garlic, minced                      | 3 cloves                                   |
-| Fresh ginger, grated                | 1 tbsp                                     |
-| Curry powder                        | 1 tbsp                                     |
-| Garam masala                        | 1 tsp                                      |
-| Turmeric                            | ½ tsp                                      |
-| Tomato paste                        | 1 tbsp                                     |
+| Fresh ginger, grated                | 1 Tablespoon                               |
+| Curry powder                        | 1 Tablespoon                               |
+| Garam masala                        | 1 teaspoon                                 |
+| Turmeric                            | ½ teaspoon                                 |
+| Tomato paste                        | 1 Tablespoon                               |
 | Vegetable broth or water            | ½ cup (to deglaze) and 1 cup (for cooking) |
-| Coconut oil or neutral oil          | 1 tbsp                                     |
+| Coconut oil or neutral oil          | 1 Tablespoon                               |
 | Fresh spinach (optional)            | 2 cups, chopped                            |
 | Cilantro & lime (for serving)       | to taste                                   |
 
