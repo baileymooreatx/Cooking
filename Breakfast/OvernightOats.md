@@ -1,6 +1,6 @@
 # Steel-Cut Overnight Oats
 
-Boiling-Water Bloom Method
+The boiling-water bloom is great for texture and glycemic index
 Makes 1 serving
 
 ### Ingredients
@@ -8,8 +8,8 @@ Makes 1 serving
 | **Ingredient**                    | **Amount** |
 |:----------------------------------|:-----------|
 | Steel-cut Oats                    | ¼ cup      |
-| Boiling Water (bloom)             | ½ cup      |
-| Kefir, Milk, or Yogurt            | ½ cup      |
+| Boiling or Warm Water (bloom)     | ½ cup      |
+| Kefir or Yogurt                   | ½ cup      |
 | Salt                              | pinch      |
 | Chia Seeds *(optional)*           | 1 teaspoon |
 | Maple syrup or honey *(optional)* | 1 teaspoon |
@@ -19,11 +19,11 @@ Makes 1 serving
 **The night before:**
 
 1. Place the oats and salt in a mason jar or lidded container.
-2. Pour the boiling water over the oats, stir once, cover, and let sit **5 to 10
-   minutes** on the counter.
-3. Cool to room temperature (about 15 to 20 min).
-4. Add the milk/yogurt and any sweetener. Stir to combine.
-5. Cover and refrigerate **8 to 12 hours**.
+2. Pour the boiling water over the oats, stir once, cover, and let sit **3 
+   to 5 minutes** on the counter.
+3. Cool to room temperature (about 15 to 20 min) before adding cultures.  
+4. Add the kefir/yogurt and any sweetener. Stir to combine.
+5. Cover and ferment at room temperature for **8 to 12 hours**.
 
 **In the morning:**
 
