@@ -4,15 +4,15 @@
 
 ## Ingredients
 
-| **Ingredient**       | **Amount**                | **Notes** |
-|:---------------------|:--------------------------|:----------|
-| Fresh cranberries    | 2 cups (8 oz)             | Rinsed    |
-| Water                | 4 cups                    |           |
-| Cinnamon stick       | 1                         |           |
-| Ginger               | 1 inch, peeled and sliced | Optional  |
-| Cloves               | 4 whole                   | Optional  |
-| Fresh lemon juice    | 2 tbsp                    |           |
-| Honey or maple syrup | To taste                  |           |
+| **Ingredient**       | **Amount**               | **Notes** |
+|:---------------------|:-------------------------|:----------|
+| Fresh cranberries    | 2 cups (8 oz)            | Rinsed    |
+| Water                | 4 cups                   |           |
+| Cinnamon stick       | 1                        |           |
+| Ginger               | 1 inch, sliced or grated | Optional  |
+| Cloves               | 4 whole                  | Optional  |
+| Fresh lemon juice    | 2 tbsp                   |           |
+| Honey or maple syrup | To taste                 |           |
 
 ## Instructions
 
