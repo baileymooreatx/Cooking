@@ -32,23 +32,23 @@
    **diced red bell pepper**. Cook until softened, ~5 min. Add garlic and
    ginger; cook 30 more seconds.
 
-2. **Toast the spices.** Stir in curry powder, garam masala, and turmeric.  
-   Cook ~30 seconds until fragrant.
-
-3. **Deglaze.** Pour in the ½ cup broth/water and scrape the bottom to release
+2. **Deglaze.** Pour in the ½ cup broth/water and scrape the bottom to release
    any stuck bits.
 
-4. **Add everything.** Stir in the tomatoes (with juice), coconut milk, tomato
+3. **Add everything.** Stir in the tomatoes (with juice), coconut milk, tomato
    paste, soaked chickpeas, and the extra **1 cup broth/water**. If using
    spinach, add it now.
 
-5. **Pressure cook.** Lock the lid, set to **Sealing**, and select **Pressure
+4. **Pressure cook.** Lock the lid, set to **Sealing**, and select **Pressure
    Cook / Manual → High** for **15 minutes**.
 
-6. **Release & finish.** Let the pressure release naturally for **10 minutes**,
+5. **Release & finish.** Let the pressure release naturally for **10 minutes**,
    then quick-release any remaining pressure. Stir, taste, and adjust salt. If
    the chickpeas need a few more minutes, pressure cook an additional 5 minutes.  
 
+6. **Add the spices.** Stir in curry powder, garam masala, and turmeric.  
+   I add these after cooking because heat degrades the spices.  
+  
 ## To Use Coconut Milk Powder
 
 Replace the **1 can (13.5 oz) full-fat coconut milk** with:
