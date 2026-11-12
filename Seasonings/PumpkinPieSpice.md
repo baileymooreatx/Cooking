@@ -15,6 +15,19 @@ A common recipe (used by The Pioneer Woman, Betty Crocker, and others) is:
 uniform (ground ginger tends to clump, so whisk thoroughly). Transfer to a small
 airtight jar and store in a cool, dry place for to 6 to 12 months.
 
-Scale the ratio (roughly **4:2:2:1.5:1.5**) up or down as needed. If you
-only need 1 teaspoon for a single recipe, combine ¾ teaspoon cinnamon with a pinch
-each of ginger, nutmeg, cloves, and allspice.
+Scale the ratio up or down as needed.
+
+**9 : 2 : 2 : 1.5 : 1.5** (cinnamon : ginger : nutmeg : allspice : cloves)
+
+That simplifies to roughly **6 : 1.3 : 1.3 : 1 : 1**, so cinnamon is by far the 
+dominant spice, not just a 2× lead over the others.
+
+For a 1 teaspoon blend, that works out to approximately:
+
+| **Spice** | **Amount**                  |
+|:----------|:----------------------------|
+| Cinnamon  | ¾ teaspoon                  |
+| Ginger    | ~⅙ teaspoon (a small pinch) |
+| Nutmeg    | ~⅙ teaspoon                 |
+| Allspice  | ~⅛ teaspoon                 |
+| Cloves    | ~⅛ teaspoon                 |
