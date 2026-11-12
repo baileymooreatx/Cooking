@@ -23,7 +23,7 @@
 3. **Natural release** for 10 to 15 minutes (the pin drops on its own). Then
    vent any remaining pressure.
 4. **Strain** through a fine-mesh sieve into a pitcher, pressing the berries
-   with a spoon to extract the juice. Discard the pulp.
+   with a spoon to extract the juice.  
 5. **Stir in** lemon juice and sweetener. Taste and adjust.
 
 Serve hot, or dilute the concentrate with hot water to make a lighter batch. The
