@@ -9,14 +9,12 @@
 | Fresh cranberries    | 2 cups (8 oz)            | Rinsed    |
 | Water                | 4 cups                   |           |
 | Cinnamon stick       | 1                        |           |
-| Ginger               | 1 inch, sliced or grated | Optional  |
 | Cloves               | 4 whole                  | Optional  |
 | Fresh lemon juice    | 2 tbsp                   |           |
-| Honey or maple syrup | To taste                 |           |
 
 ## Instructions
 
-1. **Add** the cranberries, water, cinnamon stick, ginger, and cloves to the
+1. **Add** the cranberries, water, cinnamon stick, and cloves to the
    Instant Pot. No need to crush the cranberries. Pressure will pop them open.
 2. **Seal** the lid, valve to sealing. Set to **Manual / High Pressure for 5
    minutes**.
