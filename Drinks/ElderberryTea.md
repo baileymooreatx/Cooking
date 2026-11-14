@@ -1,4 +1,4 @@
-# Elderberry Tea  
+# Instant Pot Elderberry Tea  
 
 Making elderberry tea in an Instant Pot is actually a great way to extract 
 more flavor and nutrients quickly. Here’s a simple, reliable method:
