@@ -23,7 +23,7 @@ To approximate it at home:
 | Dried hibiscus flowers                 | 2 Tablespoon |
 | Dried rosehips                         | 1 teaspoon   |
 | Dried orange peel                      | 1 teaspoon   |
-| [Dried apple pieces](DriedApples.md)   | ½ teaspoon   |
+| [Dried apple pieces](../DriedApples.md)   | ½ teaspoon   |
 | Crushed liquorice root                 | ½ teaspoon   |
 | Dried raspberry leaves (or blackberry) | ½ teaspoon   |
 
