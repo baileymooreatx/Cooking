@@ -21,15 +21,15 @@ Here's how to approximate it at home:
 
 **Per 18 oz mug (loose-leaf):**
 
-| **Ingredient**                   | **Amount**                       |
-|:---------------------------------|:---------------------------------|
-| Fine black tea (Assam or Ceylon) | 1 Tablespoon                     |
-| Ground cinnamon                  | ¾ teaspoon                       |
-| Whole cloves (or ground)         | 5 crushed (or ⅜ teaspoon ground) |
-| Licorice root, crushed or ground | ⅜ teaspoon                       |
-| Dried apple bits                 | ¾ teaspoon                       |
-| Vanilla extract                  | a few drops                      |
-| Water (rolling boil)             | 18 oz                            |
+| **Ingredient**                        | **Amount**                       |
+|:--------------------------------------|:---------------------------------|
+| Fine black tea (Assam or Ceylon)      | 1 Tablespoon                     |
+| Ground cinnamon                       | ¾ teaspoon                       |
+| Whole cloves (or ground)              | 5 crushed (or ⅜ teaspoon ground) |
+| Licorice root, crushed or ground      | ⅜ teaspoon                       |
+| [Dried apple bits](../DriedApples.md) | ¾ teaspoon                       |
+| Vanilla extract                       | a few drops                      |
+| Water (rolling boil)                  | 18 oz                            |
 
 **Brewing:** Steep **3 to 5 minutes** in the 18 oz of boiling water. Add milk
 to taste.
