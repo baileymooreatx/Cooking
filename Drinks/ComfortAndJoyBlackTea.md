@@ -27,7 +27,7 @@ Here's how to approximate it at home:
 | Ground cinnamon                       | ¾ teaspoon                       |
 | Whole cloves (or ground)              | 5 crushed (or ⅜ teaspoon ground) |
 | Licorice root, crushed or ground      | ⅜ teaspoon                       |
-| [Dried apple bits](../DriedApples.md) | ¾ teaspoon                       |
+| [Dried apple bits](DriedApples.md) | ¾ teaspoon                       |
 | Vanilla extract                       | a few drops                      |
 | Water (rolling boil)                  | 18 oz                            |
 
