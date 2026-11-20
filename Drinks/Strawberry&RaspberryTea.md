@@ -1,7 +1,9 @@
-# Strawberry & Raspberry Iced Tea
+# Twinings Strawberry & Raspberry Iced Tea
 
 [Twinings Strawberry & Raspberry Iced Tea](https://twiningsusa.com/products/strawberry-raspberry-iced-tea) 
-is an unsweetened herbal (caffeine-free) blend. Its ingredient list is: 
+is an unsweetened herbal (caffeine-free) blend.  
+
+Its ingredient list is: 
 
 * hibiscus
 * natural strawberry flavor
@@ -27,7 +29,7 @@ To approximate it at home:
 | Crushed liquorice root                 | ½ teaspoon   |
 | Dried raspberry leaves (or blackberry) | ½ teaspoon   |
 
-### Flavour
+### Flavor
 
 | **Ingredient**                         | **Amount**                   |
 |:---------------------------------------|:-----------------------------|
@@ -40,14 +42,13 @@ To approximate it at home:
 2. Pour **4 cups (1 L) boiling water** over the blend.
 3. Steep **4 minutes**, then strain.
 4. Stir in the fruit extracts while warm.
-5. Add **4 cups ice** (or 4 cups cold water + refrigerate).
-6. Serve over ice. Unsweetened — honey or lemon to taste if desired.
+5. Add **4 cups ice** (or 4 cups cold water and refrigerate).
 
 ## Notes  
 
-- The hibiscus is what gives the blend its deep red colour and tart backbone;
+- The hibiscus is what gives the blend its deep red color and tart backbone;
   don't skip it.
-- The licorice root is used in very small amounts — too much will make it taste
+- The licorice root is used in very small amounts. Too much will make it taste
   like root beer.
-- If you can't find individual dried ingredients, a **hibiscus + rosehip +
+- If you can't find individual dried ingredients, a **hibiscus, rosehip, and 
   orange peel** base with fruit extracts is the closest shortcut.
