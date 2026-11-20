@@ -1,4 +1,4 @@
-# Comfort and Joy Black Tea
+# Republic of Tea Comfort and Joy Black Tea
 
 [Comfort and Joy](https://www.republicoftea.com/products/comfort-and-joy-black-tea)
 is a seasonal (fall/winter) black tea blend sold by
@@ -12,10 +12,6 @@ The official ingredient list for Comfort and Joy is:
 * cloves
 * licorice root
 * apple bits
-
-Here's how to approximate it at home:
-
-**Per cup (loose-leaf version):**
 
 ## Ingredients
 
@@ -31,13 +27,12 @@ Here's how to approximate it at home:
 | Vanilla extract                    | a few drops                      |
 | Water (rolling boil)               | 18 oz                            |
 
-**Brewing:** Steep **3 to 5 minutes** in 18 oz of boiling water.  
 
 ## Instructions
 
-**Brewing:** Heat fresh, filtered water to a **rolling boil**, pour **6 oz**
-over the blend, and steep **3 to 5 minutes**. Add a splash of milk for a
-"holiday spice cake" taste, per the brand's own suggestion.
+Steep **3 to 5 minutes** in 18 oz of boiling water.  
+Add a splash of milk for a "holiday spice cake" taste, per the brand's 
+suggestion.
 
 ## Batch  
 
